@@ -1,10 +1,6 @@
-- 👋 Hi, I’m sandesh Vishwakarma 
-- 👀 I’m interested in technology's 
-- 🌱 I’m currently learning coding 
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+-  Hi, I’m sandesh Vishwakarma 
+-  I’m interested in technology's 
+-  I’m currently learning coding 
 
 <!---
 sandesh-2007/sandesh-2007 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
